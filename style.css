@@ -2,6 +2,13 @@
 /* CSS Document */
 body {
 	
-	background-color:green;	
+<<<<<<< HEAD
+	background-color:pink;
+	padding:20px;
+=======
+	background-color:white;
+	color:#360;
+	
+>>>>>>> development-branch
 	
 }
